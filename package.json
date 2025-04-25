@@ -1,0 +1,10 @@
+{
+  "name": "verifybody",
+  "version": "1.0.0",
+  "description": "Uma classe que cria corpos definidos com java script, vc pode verifica esses corpos comparando com um outro corpo.",
+  "main": "verifyBody.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
