@@ -4,6 +4,7 @@
   "description": "Uma classe que cria corpos definidos com java script, vc pode verifica esses corpos comparando com um outro corpo.",
   "main": "verifyBody.js",
   "type": "module",
+  "types": "verifyBody.d.ts",
   "keywords": [],
   "author": "",
   "license": "ISC"
